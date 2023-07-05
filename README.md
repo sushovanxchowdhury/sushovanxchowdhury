@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushovanxchowdhury
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning designing skils.
+- 👀 I’m interested in UI/UX Designing & Frontend Development
+- 🌱 I’m currently learning designing & Developments skils.
 - 📫 How to reach me sushovanchowdhury41@gmail.com
 
 <!---
